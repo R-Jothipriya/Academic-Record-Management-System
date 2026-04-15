@@ -20,13 +20,6 @@ Object-Oriented Programming (OOP)
 File Handling
 JSON module
 
-Project Structure
-academic-record-system/
-│
-├── main.py              # Main program (CLI menu)
-├── students.json        # Data storage file (auto-created)
-└── README.md            # Project documentation
-
 How to Run the Project
 1. Clone the repository
 git clone https://github.com/R-Jothipriya/Academic-Record-Management-System.git
@@ -38,10 +31,10 @@ python main.py
 Menu Options
 1. Add Student
 2. Display Students
-3. Exit
-4. Search Student
-5. Update Marks
-6. Delete Student
+3. Search Student
+4. Update Marks
+5. Delete Student
+6. Exit
 
 Key Concepts Used
 1. Object-Oriented Programming (OOP)
