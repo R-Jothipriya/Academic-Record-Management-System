@@ -29,7 +29,7 @@ academic-record-system/
 
 How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/academic-record-system.git
+git clone https://github.com/R-Jothipriya/Academic-Record-Management-System.git
 2. Navigate to project folder
 cd academic-record-system
 3. Run the program
