@@ -1,6 +1,6 @@
 📘 Academic Record Management System (CLI - Python)
+----------------------------------------------------------------------------------------
 Project Overview
-
 This is a CLI-based Academic Record Management System built using Python OOP and JSON file handling.
 It allows users to manage student records with full CRUD operations (Create, Read, Update, Delete) and ensures data persistence using a JSON file.
 
